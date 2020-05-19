@@ -1,6 +1,6 @@
 README.md: guessinggame.sh
-	echo "# Guessing Game" > README.md
-	echo "\n" >> README.md
+	echo "# Guessing Game   " > README.md
+
 	echo "The date where the make was **run** is:" >> README.md
 	echo "\n" >> README.md
 	date -r README.md >> README.md
